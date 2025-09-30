@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - 🤝 Open to teaming up on quirky or ambitious projects—let’s make something unexpected happen
 - 🧩 Love digging into how things work, from code to coffee machines
 - 💬 Ask me about anything! If I don't know, I will know something new to learn.
-- 📫 How to reach me: chee.jk@gmail.com
 - ⚡ Fun fact: My favorite debugging tool is a fresh cup of coffee
 
 
